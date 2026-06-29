@@ -6,4 +6,4 @@
 
 ## Key finding: Despite a 26.6% reduction in malaria incidence over 25 years, Nigeria remains the world's highest malaria burden country due to its population of 220 million — with an estimated 65 million cases annually and a current incidence of 295 per 1,000, placing it 73% behind the WHO 2030 target.
 
-## Analysis informed by 6 years of NIH and EDCTP-funded malaria surveillance research at NIMR and CeGRIB, Lagos.
+## Analysis informed by 6 years of EDCTP-funded malaria surveillance research at NIMR Lagos.
